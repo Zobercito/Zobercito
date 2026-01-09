@@ -47,24 +47,25 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zobercito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zobercito&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zobercito&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zobercito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Zobercito&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zobercito&radius=16&theme=react&area=true" height="300" alt="activity-graph graph" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/frank0027" target="_blank">
+  <a href="https://www.linkedin.com/in/frank0027" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Zobercito" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="instagram.com/mrfrank27" target="_blank">
+  <a href="https://www.instagram.com/mrfrank27" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="twitch.tv/zober" target="_blank">
+  <a href="https://www.twitch.tv/zober" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
 </div>
