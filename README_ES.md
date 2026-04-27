@@ -21,8 +21,21 @@
 
 <h3 align="center">Stack de Tecnologías</h3>
 <p align="center">
+  <strong>Lenguajes</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,astro,ts,react,tailwind,vite,nodejs,html,css,linux,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <strong>Frontend / Web</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,react,html,css,tailwind,vite&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <strong>Entorno y herramientas</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,linux,bash&theme=dark" />
   </a>
 </p>
 
