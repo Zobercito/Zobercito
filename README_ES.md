@@ -33,9 +33,15 @@
   </a>
 </p>
 <p align="center">
+  <strong>Backend / DevOps</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,prisma,postgresql&theme=dark" />
+  </a>
+</p>
+<p align="center">
   <strong>Entorno y herramientas</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,linux,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" />
   </a>
 </p>
 
