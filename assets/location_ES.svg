@@ -17,23 +17,24 @@
     <circle r="1.5" fill="white"><animate attributeName="cx" values="-100;500" dur="22s" begin="-10s" repeatCount="indefinite" /><animate attributeName="cy" values="120;-40" dur="22s" begin="-10s" repeatCount="indefinite" /></circle>
   </g>
 
-  <!-- Contenedor central corregido -->
+  <!-- Contenedor central corregido para evitar solapamiento en móviles -->
   <g transform="translate(175, 30)">
-    <g transform="translate(-104, 0)"> 
+    <!-- Ajuste de centrado total aumentado a -118 para compensar el nuevo espacio -->
+    <g transform="translate(-118, 0)"> 
       <text 
           x="0" 
           y="0"
           dominant-baseline="middle" 
           text-anchor="start" 
-          font-family="'JetBrains Mono', monospace" 
+          font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', 'Source Code Pro', monospace" 
           font-size="14" 
           font-weight="bold" 
           fill="white">
-        De Panamá para el Mundo
+        De Panamá para el mundo
       </text>
       
-      <!-- Bandera SVG con tamaño reducido (21x14) - Posición vertical ajustada -->
-      <g transform="translate(182, -9)">
+      <!-- Bandera desplazada a 215px para dar margen de seguridad al texto en móviles -->
+      <g transform="translate(215, -8.5)">
         <svg width="21" height="14" viewBox="0 0 30 20" fill="none">
           <rect width="30" height="20" fill="#F5F5F5"/>
           <path d="M30 0H0V20H30V0Z" fill="#F0F0F0"/>
