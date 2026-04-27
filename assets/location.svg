@@ -1,7 +1,7 @@
 <svg width="350" height="60" viewBox="0 0 350 60" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="350" height="60" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
   
-  <!-- Partículas animadas de fondo -->
+  <!-- Animated background particles -->
   <g opacity="0.3">
     <circle r="0.5" fill="white"><animate attributeName="cx" values="-50;400" dur="55s" begin="0s" repeatCount="indefinite" /><animate attributeName="cy" values="100;-20" dur="55s" begin="0s" repeatCount="indefinite" /></circle>
     <circle r="0.5" fill="white"><animate attributeName="cx" values="100;550" dur="55s" begin="-20s" repeatCount="indefinite" /><animate attributeName="cy" values="80;-40" dur="55s" begin="-20s" repeatCount="indefinite" /></circle>
@@ -17,9 +17,9 @@
     <circle r="1.5" fill="white"><animate attributeName="cx" values="-100;500" dur="22s" begin="-10s" repeatCount="indefinite" /><animate attributeName="cy" values="120;-40" dur="22s" begin="-10s" repeatCount="indefinite" /></circle>
   </g>
 
-  <!-- Contenedor central corregido para evitar solapamiento en móviles -->
+  <!-- Center container adjusted to prevent overlap on mobile -->
   <g transform="translate(175, 30)">
-    <!-- Ajuste de centrado total aumentado a -118 para compensar el nuevo espacio -->
+    <!-- Global centering offset increased to -118 to compensate for the new spacing -->
     <g transform="translate(-118, 0)"> 
       <text 
           x="0" 
@@ -33,7 +33,7 @@
         From Panama to the world
       </text>
       
-      <!-- Bandera desplazada a 215px para dar margen de seguridad al texto en móviles -->
+      <!-- Flag shifted to 215px to keep safe spacing from text on mobile -->
       <g transform="translate(215, -8.5)">
         <svg width="21" height="14" viewBox="0 0 30 20" fill="none">
           <rect width="30" height="20" fill="#F5F5F5"/>
