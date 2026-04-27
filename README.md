@@ -20,7 +20,7 @@
 <h3 align="center">Technology Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,html,css,linux,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,astro,ts,react,tailwind,vite,nodejs,html,css,linux,bash&theme=dark" />
   </a>
 </p>
 
