@@ -58,7 +58,7 @@
   Explore my projects, experience, certifications and programming skills
 </p>
 <p align="center">
-  <a href="https://zobercito.dev" target="_blank">
+  <a href="https://www.zobercito.dev/" target="_blank">
     <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
 </p>
