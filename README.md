@@ -49,7 +49,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zobercito&theme=dark" height="150" alt="profile stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zobercito&theme=dark" height="150" alt="top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zobercito&theme=dark" height="150" alt="streak stats" />
 </div>
 
 ---
