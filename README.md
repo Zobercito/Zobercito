@@ -47,8 +47,9 @@
 
 <h3 align="center">GitHub Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zobercito&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zobercito&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zobercito&theme=dark" height="150" alt="profile stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zobercito&theme=dark" height="150" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zobercito&theme=dark" height="150" alt="streak stats" />
 </div>
 
 ---
