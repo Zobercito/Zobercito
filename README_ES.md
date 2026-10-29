@@ -16,37 +16,6 @@
 
 ---
 
-<h3 align="center">Proyectos destacados</h3>
-
-<p align="center">
-  <a href="https://github.com/Zobercito/Adopty"><strong>Adopty</strong></a><br />
-  Plataforma de adopción de mascotas en Panamá con perfiles, búsqueda, solicitudes,
-  mensajería, moderación y control de acceso enfocado en la privacidad.<br />
-  <sub>Astro · TypeScript · Supabase · PostgreSQL · Vercel · <a href="https://adopty.lat">Demo</a></sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zobercito/codestart_fiec"><strong>CodeStart FIEC</strong></a><br />
-  Plataforma de aprendizaje interactivo para el Curso Propedéutico de la FIEC de la Universidad de Panamá,
-  con retos de C y seguimiento del progreso.<br />
-  <sub>Next.js · React · TypeScript · Supabase · MDX · CodeMirror · <a href="https://codestart-fiec.vercel.app">Demo</a></sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zobercito/apppurge"><strong>apppurge</strong></a><br />
-  TUI para encontrar y desinstalar aplicaciones instaladas mediante APT, Flatpak, Snap y AppImage.<br />
-  <sub>Go · Bubble Tea · Linux</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zobercito/aerocool-h66f-remote-emulator"><strong>AeroCool H66F Remote Emulator</strong></a><br />
-  Reemplazo basado en ESP32-C3 y 433 MHz para el control de un hub de ventiladores AeroCool,
-  con interfaz web alojada en un hotspot.<br />
-  <sub>ESP32-C3 · 433 MHz · Python · Sistemas embebidos</sub>
-</p>
-
----
-
 <h3 align="center">Stack de tecnologías</h3>
 <p align="center">
   <strong>Lenguajes</strong><br />
