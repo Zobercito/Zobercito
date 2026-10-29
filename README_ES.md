@@ -26,7 +26,7 @@
 <p align="center">
   <strong>Web</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,mdx&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind&theme=dark" />
   </a>
 </p>
 <p align="center">
