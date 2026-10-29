@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">Francisco Gonzalez — Web Products, Linux Tools, Embedded Projects</title>
+  <desc id="description">Computer Engineering student building web products, Linux tools, and embedded projects.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#7ee787"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#background)"/>
+  <circle cx="1120" cy="96" r="220" fill="#58a6ff" opacity=".06"/>
+  <circle cx="1180" cy="560" r="260" fill="#7ee787" opacity=".045"/>
+  <path d="M0 548 C260 470 390 610 650 520 S1030 420 1280 500" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M0 570 C260 492 390 632 650 542 S1030 442 1280 522" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
+
+  <g fill="#8b949e" opacity=".45">
+    <circle cx="1010" cy="190" r="3"/>
+    <circle cx="1050" cy="190" r="3"/>
+    <circle cx="1090" cy="190" r="3"/>
+    <circle cx="1010" cy="230" r="3"/>
+    <circle cx="1050" cy="230" r="3"/>
+    <circle cx="1090" cy="230" r="3"/>
+    <circle cx="1010" cy="270" r="3"/>
+    <circle cx="1050" cy="270" r="3"/>
+    <circle cx="1090" cy="270" r="3"/>
+  </g>
+
+  <text x="100" y="215" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Francisco Gonzalez</text>
+  <rect x="104" y="255" width="170" height="6" rx="3" fill="url(#accent)"/>
+  <text x="100" y="345" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="30">Web Products  ·  Linux Tools  ·  Embedded Projects</text>
+  <text x="100" y="405" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="24">Computer Engineering student from Panama</text>
+
+  <g transform="translate(100 480)" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#8b949e">
+    <text x="0" y="0">zobercito.dev</text>
+    <text x="220" y="0">github.com/Zobercito</text>
+  </g>
+</svg>
