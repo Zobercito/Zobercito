@@ -1,16 +1,13 @@
 <img src="assets/banner_ES.svg" width="100%">
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 <h3 align="center">
-  <code>Estudiante de Ingeniería | Backend Dev | Arquitectura de Sistemas</code>
+  <code>Desarrollador Fullstack | TypeScript · Go · Linux</code>
 </h3>
 
 <p align="center">
-  Actualmente cursando mis últimos años de carrera y enfocado en construir soluciones escalables y eficientes. Me encanta explorar nuevas tecnologías y contribuir a proyectos que generen impacto.
+  Estudiante de Ingeniería de Panamá que construye productos web útiles, herramientas de
+  terminal y proyectos de hardware. Me gusta convertir problemas reales en software práctico y mantenible.
 </p>
-
-###
 
 <p align="center">
   <br />
@@ -19,29 +16,72 @@
 
 ---
 
-<h3 align="center">Stack de Tecnologías</h3>
+<h3 align="center">Proyectos destacados</h3>
+
+<p align="center">
+  <a href="https://github.com/Zobercito/Adopty"><strong>Adopty</strong></a><br />
+  Plataforma de adopción de mascotas en Panamá con perfiles, búsqueda, solicitudes,
+  mensajería, moderación y control de acceso enfocado en la privacidad.<br />
+  <sub>Astro · TypeScript · Supabase · PostgreSQL · Vercel · <a href="https://adopty.lat">Demo</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zobercito/codestart_fiec"><strong>CodeStart FIEC</strong></a><br />
+  Plataforma de aprendizaje interactivo para el Curso Propedéutico de la FIEC de la Universidad de Panamá,
+  con retos de C y seguimiento del progreso.<br />
+  <sub>Next.js · React · TypeScript · Supabase · MDX · CodeMirror · <a href="https://codestart-fiec.vercel.app">Demo</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zobercito/apppurge"><strong>apppurge</strong></a><br />
+  TUI para encontrar y desinstalar aplicaciones instaladas mediante APT, Flatpak, Snap y AppImage.<br />
+  <sub>Go · Bubble Tea · Linux</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zobercito/aerocool-h66f-remote-emulator"><strong>AeroCool H66F Remote Emulator</strong></a><br />
+  Reemplazo basado en ESP32-C3 y 433 MHz para el control de un hub de ventiladores AeroCool,
+  con interfaz web alojada en un hotspot.<br />
+  <sub>ESP32-C3 · 433 MHz · Python · Sistemas embebidos</sub>
+</p>
+
+---
+
+<h3 align="center">Stack de tecnologías</h3>
 <p align="center">
   <strong>Lenguajes</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,py&theme=dark" />
   </a>
 </p>
 <p align="center">
-  <strong>Frontend / Web</strong><br />
+  <strong>Web</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,react,html,css,tailwind,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind,mdx&theme=dark" />
   </a>
 </p>
 <p align="center">
-  <strong>Backend / DevOps</strong><br />
+  <strong>Backend y datos</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,prisma,postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgresql,nodejs&theme=dark" />
   </a>
 </p>
 <p align="center">
   <strong>Entorno y herramientas</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github&theme=dark" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Mi portafolio</h3>
+<p align="center">
+  Explora mis proyectos, experiencia, certificaciones y habilidades de programación.
+</p>
+<p align="center">
+  <a href="https://www.zobercito.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/VISITA_MI_PORTAFOLIO-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
 </p>
 
@@ -49,31 +89,20 @@
 
 <h3 align="center">Estadísticas de GitHub</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zobercito&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zobercito&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zobercito&theme=dark" height="150" alt="estadísticas del perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zobercito&theme=dark" height="150" alt="lenguajes principales" />
 </div>
-
----
-
-<h3 align="center">Mi Portafolio</h3>
-<p align="center">
-  Explora mis proyectos, experiencias, certificaciones y habilidades como programador
-</p>
-<p align="center">
-  <a href="https://zobercito.dev" target="_blank">
-    <img src="https://img.shields.io/badge/VISITA_MI_PORTAFOLIO-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 <h3 align="center">¿Hablamos?</h3>
 <div align="center">
-<a href="https://linkedin.com/in/frank0027" target="_blank"><img src="assets/linkedin.svg" alt="LinkedIn" width="48" height="48" style="border: none; display: inline-block; margin: 0 15px;"></a><a href="mailto:contact@zobercito.dev"><img src="assets/email.svg" alt="Correo Electrónico" width="48" height="48" style="border: none; display: inline-block; margin: 0 15px;"></a>
+  <a href="https://linkedin.com/in/frank0027" target="_blank"><img src="assets/linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
+  <a href="mailto:contact@zobercito.dev"><img src="assets/email.svg" alt="Correo electrónico" width="48" height="48"></a>
 </div>
 
 <div align="center">
-  <a href="README.md" style="text-decoration: none;">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/ENGLISH_README-000000?style=for-the-badge&logo=github&logoColor=white" alt="README in English">
   </a>
 </div>
