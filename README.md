@@ -16,6 +16,20 @@
 
 ---
 
+<h3 align="center">What I Build</h3>
+<p align="center">
+  I build full-stack applications, Linux tools, and embedded projects focused on
+  practical workflows, clear interfaces, and maintainable systems.
+</p>
+
+<h3 align="center">Engineering Interests</h3>
+<p align="center">
+  Full-stack product development · Linux and terminal tooling · PostgreSQL and database
+  authorization · Testing and CI/CD · Embedded systems and hardware interfaces
+</p>
+
+---
+
 <h3 align="center">Technology Stack</h3>
 <p align="center">
   <strong>Languages</strong><br />
