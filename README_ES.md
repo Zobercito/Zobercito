@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  Estudiante de Ingeniería de Panamá que construye productos web útiles, herramientas de
-  terminal y proyectos de hardware. Me gusta convertir problemas reales en software práctico y mantenible.
+  Estudiante de Ingeniería de Panamá que construye productos web fullstack, herramientas de
+  Linux y proyectos embebidos con TypeScript, Go, PHP y Python.
 </p>
 
 <p align="center">
@@ -20,25 +20,25 @@
 <p align="center">
   <strong>Lenguajes</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,go,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,py,php&theme=dark" />
   </a>
 </p>
 <p align="center">
   <strong>Web</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,nextjs,react,laravel,tailwind,vite&theme=dark" />
   </a>
 </p>
 <p align="center">
   <strong>Backend y datos</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgresql,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgresql,nodejs,docker&theme=dark" />
   </a>
 </p>
 <p align="center">
   <strong>Entorno y herramientas</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,bun,git,github&theme=dark" />
   </a>
 </p>
 
