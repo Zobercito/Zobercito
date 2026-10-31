@@ -16,6 +16,20 @@
 
 ---
 
+<h3 align="center">Lo que construyo</h3>
+<p align="center">
+  Construyo aplicaciones fullstack, herramientas de Linux y proyectos embebidos
+  enfocados en flujos prácticos, interfaces claras y sistemas mantenibles.
+</p>
+
+<h3 align="center">Intereses de ingeniería</h3>
+<p align="center">
+  Desarrollo de productos fullstack · Herramientas de Linux y terminal · PostgreSQL y
+  autorización de bases de datos · Testing y CI/CD · Sistemas embebidos e interfaces de hardware
+</p>
+
+---
+
 <h3 align="center">Stack de tecnologías</h3>
 <p align="center">
   <strong>Lenguajes</strong><br />
